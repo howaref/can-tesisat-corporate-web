@@ -1,15 +1,13 @@
-# can-tesisat-corporate-web
-A modern, fully responsive corporate website built for a local plumbing business.
 # 🔧 Can Tesisat - Corporate Business Website
 
 A modern, fully responsive, and fast-loading single-page corporate website built for a local plumbing and natural gas business in Diyarbakır.
 
 This project demonstrates my ability to deliver end-to-end freelance web solutions for real-world clients, focusing on user experience, mobile accessibility, and business conversion.
 
-🔗 **Live Website:** [Sitenin Canlı Linkini Buraya Ekle - örn: https://cantesisat.com]
+🔗 **Live Website:** https://cantesisat21.com
 
 ## 📸 Project Screenshots
-*(Buraya sitenin masaüstü ve telefonda nasıl göründüğüne dair 2-3 tane şık ekran görüntüsü ekle. Müşteriler kodu okumaz, görsele bakar!)*
+*(Daha sonra buraya sitenin masaüstü ve telefonda nasıl göründüğüne dair 2-3 tane ekran görüntüsü ekleyebilirsin)*
 
 ## 🚀 Technologies & Tools Used
 * **Frontend:** HTML5, Vanilla JavaScript
